@@ -1,4 +1,4 @@
-**Titanic Data Analysis by Vaishnav Nigade 2022BCD0045 and Venguru Hasha Vardhan 2022BCD0006**
+**Titanic Data Analysis by Vaishnav Nigade 2022BCD0045 
 
 **Overview**
 
@@ -46,7 +46,7 @@ Cabin: Cabin number (some values are missing).
 Embarked: The port of embarkation (C = Cherbourg; Q = Queenstown; S = Southampton).
 Survived: The target variable indicating whether the passenger survived (1 = survived, 0 = did not survive).
 
-**Model Development  Vaishnav Nigade 2022BCD0045 and Venguru Hasha Vardhan 2022BCD0006**
+**Model Development  Vaishnav Nigade 2022BCD0045
 
 The project follows these stages to develop the predictive model:
 
